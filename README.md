@@ -1,2 +1,3 @@
 # Data-Cleaning-Challenge
-5 day Data Cleaning Challenges
+
+Welcome to the 5-Day Data Cleaning Challenge! 
